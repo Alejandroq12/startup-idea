@@ -86,6 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-folder
+```
   git clone https://github.com/Alejandroq12/startup-idea.git
 ```
 
@@ -109,9 +110,18 @@ Tests will be available in the future.
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using GitHub pages:
 
-
+1. Log in to your GitHub account and navigate to the repository that contains your website files.
+2. Make sure that your website files are located in the main branch and in the root directory of the repository.
+3. If your website is not already live, make sure that the index.html file is the main page of your website.
+4. Click on the "Settings" tab in your repository.
+5. Scroll down to the "GitHub Pages" section.
+6. In the "Source" dropdown menu, select the branch where your website files are located. For a simple website with only HTML and CSS, this is typically the main branch.
+7. In the "Path" field, make sure that the root directory is specified (i.e., "/").
+8. Click "Save" to generate your website.
+9. Wait a few minutes for GitHub to build and deploy your website.
+10. Once the website is deployed, visit the GitHub Pages URL to view your site.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,11 +141,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **I will add more interactivity with JavaScript.**
+- [ ] **I will add more pages.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,9 +160,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give a star.
+Thanks in advance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,9 +169,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Wes Bos because I learned how to implement flexbox with his free tutorial:
+- Wes Bos: [Wes Bos](https://flexbox.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,15 +178,9 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **What did you learn with this project?**
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - The best part wast the Mailchimp integration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,7 +189,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
