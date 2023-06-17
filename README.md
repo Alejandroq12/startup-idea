@@ -44,8 +44,6 @@ This is a simple, one-page website for an upcoming startup event. The website us
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -59,11 +57,7 @@ This is a simple, one-page website for an upcoming startup event. The website us
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Responsive landing page.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,21 +74,13 @@ This is a simple, one-page website for an upcoming startup event. The website us
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Only a web browser.
 
 ### Setup
 
