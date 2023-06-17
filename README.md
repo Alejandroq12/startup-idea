@@ -40,8 +40,6 @@
 
 This is a simple, one-page website for an upcoming startup event. The website uses Bootstrap for its layout and styling, and includes a custom stylesheet for additional design tweaks. The website features a full-screen background image and a prominent call-to-action button to sign up for more information about the event. The tech stack includes HTML, CSS, and Bootstrap.
 
-**[your_project__name]** is a...
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -51,21 +49,7 @@ This is a simple, one-page website for an upcoming startup event. The website us
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
 
