@@ -69,9 +69,8 @@ This is a simple, one-page website for an upcoming startup event. The website us
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link]( )
+- [Live Demo Link](https://alejandroq12.github.io/startup-idea/ )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
