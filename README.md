@@ -50,6 +50,8 @@ This is a simple, one-page website for an upcoming startup event. The website us
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
   </ul>
 </details>
 
