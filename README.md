@@ -36,7 +36,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Startup Idea] <a name="about-project"></a>
 
 This is a simple, one-page website for an upcoming startup event. The website uses Bootstrap for its layout and styling, and includes a custom stylesheet for additional design tweaks. The website features a full-screen background image and a prominent call-to-action button to sign up for more information about the event. The tech stack includes HTML, CSS, and Bootstrap.
 
@@ -65,7 +65,6 @@ This is a simple, one-page website for an upcoming startup event. The website us
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
 - [Live Demo Link](https://alejandroq12.github.io/startup-idea/ )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,63 +85,33 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Alejandroq12/startup-idea.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+For this project you just need to install a web browser.
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Just open the `index.html` file with your web browser.
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+Tests will be available in the future.
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
